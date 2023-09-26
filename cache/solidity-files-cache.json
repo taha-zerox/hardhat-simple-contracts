@@ -1,0 +1,75 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/tahashabani/Projects/zerox/my-projects/hardhat-simple-contracts/contracts/SingleNumber.sol": {
+      "lastModificationDate": 1695687596948,
+      "contentHash": "8ffd8bc8d7fef60f148c8ae4ab1972bb",
+      "sourceName": "contracts/SingleNumber.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "SingleNumber"
+      ]
+    },
+    "/Users/tahashabani/Projects/zerox/my-projects/hardhat-simple-contracts/contracts/AppendNumber.sol": {
+      "lastModificationDate": 1695696315109,
+      "contentHash": "fe25ced8e595c3dab64cbf05c01c7133",
+      "sourceName": "contracts/AppendNumber.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "AppendNumber"
+      ]
+    }
+  }
+}
